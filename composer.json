@@ -1,5 +1,5 @@
 {
-    "name": "jayzeng/virustotalapi",
+    "name": "seva-code/virustotal_apiwrapper",
     "description": "VirusTotal Public API v2.0 PHP Wrapper",
     "type": "library",
     "keywords": ["virus","virustotal", "api", "php", "wrapper", "security"],
