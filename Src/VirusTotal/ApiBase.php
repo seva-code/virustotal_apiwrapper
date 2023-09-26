@@ -37,6 +37,8 @@ class ApiBase
             $this->_client = new Client(array(
                 'base_uri' => self::API_ENDPOINT,
             ));
+        } else {
+            $this->_client = $client;
         }
     }
 
